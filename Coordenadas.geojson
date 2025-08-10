@@ -143,6 +143,19 @@
       "properties": {
         "name": "C11"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6361385,
+          -17.7601572
+        ]
+      },
+      "properties": {
+        "name": "C12"
+      }
     }
   ]
 }
