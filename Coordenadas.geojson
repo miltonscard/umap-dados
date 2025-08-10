@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.2714702,
-          -16.6848554
+          -48.6270358,
+          -17.7474881
         ]
       },
       "properties": {
         "name": "Geo Fernandes",
-        "address": "Sala 12, Carne de Sol e hamb?rgueria do Jardel, Setor Oeste, Caldas Novas - GO, Brasil",
+        "address": "Carne de Sol e hamb?rgueria do Jardel, Sala 12, Setor Oeste, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564993040667"
       }
@@ -28,7 +28,7 @@
       },
       "properties": {
         "name": "warlem",
-        "address": "Rua Dona Madalena Quadra 5 lote 14 15, Ao lado da padaria mister paes., turista 1, Caldas Novas - GO, Brasil",
+        "address": "Ao lado da padaria mister paes., Rua Dona Madalena Quadra 5 lote 14 15, turista 1, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564993434672"
       }
@@ -44,7 +44,7 @@
       },
       "properties": {
         "name": "Danny Nunes",
-        "address": "Rua 01 Qd 2 Lt 15, Abaixo do sacolar Dona Xepa, Paraiso 1, Caldas Novas - GO, Brasil",
+        "address": "Abaixo do sacolar Dona Xepa, Rua 01 Qd 2 Lt 15, Paraiso 1, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564992841084"
       }
