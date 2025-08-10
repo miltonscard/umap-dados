@@ -78,6 +78,32 @@
       "properties": {
         "name": "C6"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6342452,
+          -17.7250324
+        ]
+      },
+      "properties": {
+        "name": "C7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.638569,
+          -17.7267301
+        ]
+      },
+      "properties": {
+        "name": "C8"
+      }
     }
   ]
 }
