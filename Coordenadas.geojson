@@ -48,6 +48,70 @@
         "status": "delivered",
         "phoneNumber": "+5564992841084"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.619057,
+          -17.7554087
+        ]
+      },
+      "properties": {
+        "name": "katia maria da silva",
+        "address": "Ao lado do Hotel Taiyo, Rua Presidente Castelo Branco, Residencial ?guas da Serra, apart 504, Bl E, Turista I, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992436000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6314072,
+          -17.75242
+        ]
+      },
+      "properties": {
+        "name": "J?lia Naves",
+        "address": "Na esquina tem uma loja perfumaria e o port?o branco, rua B28 Quadra 37 Lote 17A,, Itanhang? I, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564996133458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6374664,
+          -17.7521556
+        ]
+      },
+      "properties": {
+        "name": "Daniel Ferreira",
+        "address": "Rua atr?s da receita feferal, Rua D11 Qd. 89 Lt. 3, Itanhanga 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992082817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6073371,
+          -17.7208754
+        ]
+      },
+      "properties": {
+        "name": "carol",
+        "address": "em frente a pista de cooper, port?o preto, Rua RP 08 quadra 02 lote 06A, residencial primavera 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992012486"
+      }
     }
   ]
 }
