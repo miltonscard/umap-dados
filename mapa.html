@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Mapa de Entregas</title>
+<style>
+  body { margin: 0; padding: 0; }
+  iframe { width: 100%; height: 100vh; border: none; }
+</style>
+<script>
+// Tempo de recarga (5 minutos = 300000 ms)
+const reloadTime = 300000;
+
+setInterval(() => {
+  const iframe = document.getElementById('umap');
+  iframe.src = iframe.src; // força recarregar
+}, reloadTime);
+</script>
+</head>
+<body>
+<iframe id="umap" src="https://umap.openstreetmap.fr/pt-br/map/pedidos_1266273" allowfullscreen></iframe>
+</body>
+</html>
