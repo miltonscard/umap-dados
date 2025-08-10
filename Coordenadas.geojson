@@ -65,6 +65,19 @@
       "properties": {
         "name": "C5"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.62719,
+          -17.7468417
+        ]
+      },
+      "properties": {
+        "name": ""
+      }
     }
   ]
 }
