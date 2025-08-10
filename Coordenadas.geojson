@@ -156,19 +156,6 @@
       "properties": {
         "name": -48.6361385
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.7543985,
-          "Av DAS ROSAS, QD 07 LT 03 ; Port?o preto grande, do lado de um Sobradinho pequeno.        jardim dos turistas - Caldas Novas - GO."
-        ]
-      },
-      "properties": {
-        "name": -48.6194686
-      }
     }
   ]
 }
