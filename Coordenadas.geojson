@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.59057139999999,
-          -17.7283335
+          -17.7283335,
+          "Rua 01 quadra Lm12 lote 07 jardim prive das caldas - Caldas Novas - GO."
         ]
       },
       "properties": {
-        "name": "C1"
+        "name": -48.59057139999999
       }
     },
     {
@@ -19,12 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.5851616,
-          -17.7491131
+          -17.7491131,
+          "Rua ra 19 qd 11 lt 13 ; Port?o branco        recanto das aguas - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C2"
+        "name": -48.5851616
       }
     },
     {
@@ -32,12 +32,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6063175,
-          -17.7384573
+          -17.7384573,
+          "rua joaquim rodrigues de godoy qd 20 lt 6 ; e a casa de muro alto cinza e portao preto        parquel real - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C3"
+        "name": -48.6063175
       }
     },
     {
@@ -45,12 +45,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6213003,
-          -17.7434726
+          -17.7434726,
+          "Rua P, quadra 11, lote 02, 1050, Ap 02        nova vila - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C4"
+        "name": -48.6213003
       }
     },
     {
@@ -58,12 +58,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6331672,
-          -17.7378538
+          -17.7378538,
+          "Rua Adalgisa condom?nio promenade apt 303 bloco A ; Pr?ximo hotel Tayo        turista i - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C5"
+        "name": -48.6331672
       }
     },
     {
@@ -71,12 +71,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.62719,
-          -17.7468417
+          -17.7468417,
+          "QD 31, LT 1A, Rua Professor Bretas ; Ao lado da prepara curso    centro - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C6"
+        "name": -48.62719
       }
     },
     {
@@ -84,12 +84,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6342452,
-          -17.7250324
+          -17.7250324,
+          "Rua 2 quadra 05 lote 9 ; Rua da tv caldas        turista 2 - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C7"
+        "name": -48.6342452
       }
     },
     {
@@ -97,12 +97,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.638569,
-          -17.7267301
+          -17.7267301,
+          "Rua 23, qd 15, lt 16D ; Quase em frente a eletr?nica Mix        turista ii - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C8"
+        "name": -48.638569
       }
     },
     {
@@ -110,12 +110,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6250248,
-          -17.7445191
+          -17.7445191,
+          "Rua P qd 3 lt 4 edif?cio kgm apto 101 ; Porta de vidro escura em frente ao sal?o do vanio        buriti mirim - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C9"
+        "name": -48.6250248
       }
     },
     {
@@ -123,12 +123,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6250248,
-          -17.7445191
+          -17.7445191,
+          "Rua B2 quadra 05 lote 05 ; Port?o vermelho        parque das brisas - Caldas Novas - GO"
         ]
       },
       "properties": {
-        "name": "C10"
+        "name": -48.6250248
       }
     },
     {
@@ -136,12 +136,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6249802,
-          -17.7444786
+          -17.7444786,
+          "Rua Ra-22 Qd-1 Lt-16 ; Pr?ximo ? avenida do lago sul.  Descendo a rua lateral do supermercado sol .        alto da boa vista - Caldas Novas - GO."
         ]
       },
       "properties": {
-        "name": "C11"
+        "name": -48.6249802
       }
     },
     {
@@ -149,12 +149,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6361385,
-          -17.7601572
+          -17.7601572,
+          "Rua Serra Negra qd18 LT 12 A ; Na rua do J?nior Autom?veis        jardim serrano - Caldas Nopvas - GO"
         ]
       },
       "properties": {
-        "name": "C12"
+        "name": -48.6361385
       }
     }
   ]
