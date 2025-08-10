@@ -112,6 +112,358 @@
         "status": "delivered",
         "phoneNumber": "+5564992012486"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6314072,
+          -17.75242
+        ]
+      },
+      "properties": {
+        "name": "J?lia Naves",
+        "address": "Na esquina tem uma loja perfumaria e o port?o branco, rua B28 Quadra 37 Lote 17A, Itanhang? I, Caldas Novas - GO, Brasil",
+        "status": "canceled",
+        "phoneNumber": "+5564996433458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6194334,
+          -17.742442
+        ]
+      },
+      "properties": {
+        "name": "Lara marra",
+        "address": "Rua P qd 03 lt 04 EDIF?CIO KGM apt 101, Buriti mirim, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992445383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6113271,
+          -17.7636948
+        ]
+      },
+      "properties": {
+        "name": "Kaka Gerhardt",
+        "address": "Rua da Secretaria de Sa?de, Rua 1, Qd. 3, Lt. 13, Itaici II, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992380505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6194686,
+          -17.7543985
+        ]
+      },
+      "properties": {
+        "name": "MARIANA SANTOS OLIVEIRA",
+        "address": "Port?o preto grande, do lado de um Sobradinho pequeno., Av DAS ROSAS, QD 07 LT 03, Jardim dos turistas, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992924731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6361385,
+          -17.7601572
+        ]
+      },
+      "properties": {
+        "name": "alice daiany ribeiro de melo Melo",
+        "address": "Na rua do J?nior Autom?veis, Rua Serra Negra qd18 LT 12 A, Jardim Serrano, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992447738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6250248,
+          -17.7445191
+        ]
+      },
+      "properties": {
+        "name": "J?nior Souza",
+        "address": "Cond na rua de terra, Rua 90 Quadra 210 Cond Vale verde 1, Mans?es da ?guas quentes, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992697750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6329734,
+          -17.7416713
+        ]
+      },
+      "properties": {
+        "name": "J?lia Riciery",
+        "address": "Enfrente ao shopping Singapura e ao lado da LaPanetteria, Av. Coronel Cirilo Lopes de Morais  Q.37  Lt.2a5 Condom?nio: Costa Rica  Apt.402, Turista 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564993395768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6250248,
+          -17.7445191
+        ]
+      },
+      "properties": {
+        "name": "Lara marra",
+        "address": "Porta de vidro ao lado da loja, Rua P qd 03 lt 04 EDIF?CIO KGM apt 101, Buriti mirim, Caldas Novas - GO, Brasil",
+        "status": "canceled",
+        "phoneNumber": "+5564992445383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6351288,
+          -17.754211
+        ]
+      },
+      "properties": {
+        "name": "Tatiany Pedr?o",
+        "address": "Ao lado do gin?sio de esportes encostada ao crossfit box02, Rua b1Qd.40 Lt.07, Itanhanga 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992360304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6325594,
+          -17.7460946
+        ]
+      },
+      "properties": {
+        "name": "Marry DC",
+        "address": "Muro verde. Na rua de baixo da Drogasil Bandeirantes, Rua 15 de Novembro, 42, quadra 11, lote 19, Bandeirantes, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5519993900914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6249802,
+          -17.7444786
+        ]
+      },
+      "properties": {
+        "name": "Marcele",
+        "address": "Pr?ximo ? avenida do lago sul.  Descendo a rua lateral do supermercado sol ., Rua Ra-22 Qd-1 Lt-16, Alto da Boa Vista, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564993028008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.608872,
+          -17.7586877
+        ]
+      },
+      "properties": {
+        "name": "Ramila Reis",
+        "address": "Port?o vermelho, Rua B2 quadra 05 lote 05, Parque das brisas, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992918775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6194334,
+          -17.742442
+        ]
+      },
+      "properties": {
+        "name": "Wagner Live",
+        "address": "Porta de vidro escura em frente ao sal?o do vanio, Rua P qd 3 lt 4 edif?cio kgm apto 101, Buriti Mirim, Caldas Novas - GO, Brasil",
+        "status": "canceled",
+        "phoneNumber": "+5521994147104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.638569,
+          -17.7267301
+        ]
+      },
+      "properties": {
+        "name": "Mariana Croda",
+        "address": "Quase em frente a eletr?nica Mix, Rua 23, qd 15, lt 16D, Turista II, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564996158549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6342452,
+          -17.7250324
+        ]
+      },
+      "properties": {
+        "name": "Weida Kelly",
+        "address": "Rua da tv caldas, Rua 2 quadra 05 lote 9, Turista 2, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564999381818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.626067,
+          -17.7476436
+        ]
+      },
+      "properties": {
+        "name": "Ana Laura",
+        "address": "Ao lado da prepara curso, QD 31, LT 1A, Rua Professor Bretas, Centro, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992437182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6331672,
+          -17.7378538
+        ]
+      },
+      "properties": {
+        "name": "Gustavo Pantoja",
+        "address": "Pr?ximo hotel Tayo, Rua Adalgisa condom?nio promenade apt 303 bloco A, Turista I, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564996763773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.61589900000001,
+          -17.741247
+        ]
+      },
+      "properties": {
+        "name": "L?gia Tom?",
+        "address": "Ao lado da casa do adubo, Ed. Odilio Machado, Rua P, quadra 11, lote 02, 1050, Ap 02, Nova Vila, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564993182335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.608872,
+          -17.7586877
+        ]
+      },
+      "properties": {
+        "name": "Jessica Amorim Godoy",
+        "address": "Casa do port?o e muro marrom, Rua B7 qd 35 lt 15, Parque das brisas 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992221622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6072717,
+          -17.7400924
+        ]
+      },
+      "properties": {
+        "name": "anahy",
+        "address": "e a casa de muro alto cinza e portao preto, rua joaquim rodrigues de godoy qd 20 lt 6, parquel real, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564984413595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6251087,
+          -17.7445029
+        ]
+      },
+      "properties": {
+        "name": "Aloisio.",
+        "address": "Residencial Village -Orquidea 79-, Residencial Village -Orquidea 79-, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5562992804459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5851616,
+          -17.7491131
+        ]
+      },
+      "properties": {
+        "name": "Fabiana Faleiro",
+        "address": "Port?o branco, Rua ra 19 qd 11 lt 13, Recanto das ?guas, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992282023"
+      }
     }
   ]
 }
