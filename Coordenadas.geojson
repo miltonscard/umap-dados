@@ -12,7 +12,41 @@
       },
       "properties": {
         "name": "Geo Fernandes",
-        "address": "Sala 12, Setor Oeste, Caldas Novas - GO, Brasil"
+        "address": "Sala 12, Setor Oeste, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564993040667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6288607,
+          -17.7388014
+        ]
+      },
+      "properties": {
+        "name": "warlem",
+        "address": "Rua Dona Madalena Quadra 5 lote 14 15, turista 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564993434672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6250248,
+          -17.7445191
+        ]
+      },
+      "properties": {
+        "name": "Danny Nunes",
+        "address": "Rua 01 Qd 2 Lt 15, Paraiso 1, Caldas Novas - GO, Brasil",
+        "status": "delivered",
+        "phoneNumber": "+5564992841084"
       }
     }
   ]
