@@ -11,12 +11,8 @@
         ]
       },
       "properties": {
-        "id": "6898065cea10c900156ed082",
         "name": "Geo Fernandes",
-        "address": "Sala 12",
-        "reference": "Carne de Sol e hamb?rgueria do Jardel",
-        "district": "Setor Oeste",
-        "city": "Caldas Novas - GO",
+        "address": "Sala 12, Carne de Sol e hamb?rgueria do Jardel, Setor Oeste, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564993040667"
       }
@@ -31,12 +27,8 @@
         ]
       },
       "properties": {
-        "id": "68980623ea10c900156eb322",
         "name": "warlem",
-        "address": "Rua Dona Madalena Quadra 5 lote 14 15",
-        "reference": "Ao lado da padaria mister paes.",
-        "district": "turista 1",
-        "city": "Caldas Novas - GO",
+        "address": "Rua Dona Madalena Quadra 5 lote 14 15, Ao lado da padaria mister paes., turista 1, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564993434672"
       }
@@ -51,12 +43,8 @@
         ]
       },
       "properties": {
-        "id": "6897fffdea10c900156c9df5",
         "name": "Danny Nunes",
-        "address": "Rua 01 Qd 2 Lt 15",
-        "reference": "Abaixo do sacolar Dona Xepa",
-        "district": "Paraiso 1",
-        "city": "Caldas Novas - GO",
+        "address": "Rua 01 Qd 2 Lt 15, Abaixo do sacolar Dona Xepa, Paraiso 1, Caldas Novas - GO, Brasil",
         "status": "delivered",
         "phoneNumber": "+5564992841084"
       }
