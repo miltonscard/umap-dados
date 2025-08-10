@@ -130,6 +130,19 @@
       "properties": {
         "name": "C10"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6249802,
+          -17.7444786
+        ]
+      },
+      "properties": {
+        "name": "C11"
+      }
     }
   ]
 }
