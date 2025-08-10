@@ -104,6 +104,19 @@
       "properties": {
         "name": "C8"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6250248,
+          -17.7445191
+        ]
+      },
+      "properties": {
+        "name": "C9"
+      }
     }
   ]
 }
