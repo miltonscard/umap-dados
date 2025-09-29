@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.6282772,
-          -17.7733058
+          "Service invoked too many times for one day: geocode.",
+          "Erro"
         ]
       },
       "properties": {
